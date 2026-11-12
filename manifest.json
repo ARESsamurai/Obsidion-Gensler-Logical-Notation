@@ -1,0 +1,9 @@
+{
+  "id": "logic-symbols",
+  "name": "Logic Symbols",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Type logical notation in Gensler style. Changes the italic words ifthen, iff, and, and or to Gensler logic symbols.",
+  "author": "Your Name",
+  "isDesktopOnly": false
+}
